@@ -13,3 +13,5 @@ niubi2
 feature2-12
 
 this is dev 
+
+fixed bug
