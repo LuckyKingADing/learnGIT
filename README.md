@@ -14,6 +14,6 @@ feature2-12
 
 this is dev 
 
-main bug fix
+fixed bug
 
-issue-100
+issue-101
