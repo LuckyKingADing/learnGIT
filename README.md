@@ -17,3 +17,5 @@ this is dev
 fixed bug
 
 issue-101
+
+new bug had been fixed
